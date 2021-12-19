@@ -1,0 +1,26 @@
+.list {
+  width: 500px;
+  text-align: center;
+  list-style: none;
+}
+
+.listItem {
+  margin-bottom: 20px;
+}
+
+.listItemText {
+  margin-right: 10px;
+}
+
+.button {
+  width: 100px;
+  height: 20px;
+  border: none;
+  border-radius: 10px;
+  background-color: rgb(223, 178, 119);
+}
+
+.button:hover,
+.button:focus {
+  background-color: red;
+}

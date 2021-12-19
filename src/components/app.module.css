@@ -1,0 +1,27 @@
+.container {
+  background-color: #f8f5f1;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 550px;
+  border-color: #11a579;
+  border-radius: 20%;
+  border-width: 20px;
+}
+.main_header {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 9px;
+  width: 300px;
+  text-align: center;
+  color: #f2f2f2;
+  background: #db7129;
+  border-style: dashed;
+  font-weight: 700;
+  font-family: 'Libre Baskerville', serif;
+}
+.contacts_header {
+  text-align: center;
+}
